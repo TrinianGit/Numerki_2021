@@ -1,0 +1,3 @@
+Dla malych wartosci zaburzenia roznica w wynikach jest znaczaca.
+Oznacza to, iz male zaburzenia maja znaczacy wplyw na wyniki ro-
+wnania kwadratowego.
